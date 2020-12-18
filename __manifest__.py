@@ -19,14 +19,14 @@
 ##############################################################################
 
 {
-    'name': 'Project Task Record by User',
-    'version': '1.0',
-    'author': 'Humanytek',
-    'website': 'http://humanytek.com',
-    'depends': [
-        'hr_timesheet',
+    "name": "Project Task Record by User",
+    "version": "1.0",
+    "author": "Humanytek",
+    "website": "http://humanytek.com",
+    "depends": [
+        "hr_timesheet",
     ],
-    'data': [
-        'security/project_project.xml',
-    ]
+    "data": [
+        "security/project_project.xml",
+    ],
 }
